@@ -1,0 +1,2 @@
+# caltect_dataset_convert
+把caltech行人检测数据集转换为voc格式
